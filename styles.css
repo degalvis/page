@@ -135,9 +135,6 @@ footer a{
     *{
         margin:0;
     }
-    .menu{
-        border: 2px solid red;
-    }
 
     .nombre-marca{
         margin: 0;
@@ -157,6 +154,7 @@ footer a{
         flex-wrap: wrap;
         justify-content: center;
         margin: 0;
+        padding-top: 1.2em;
     }
 
     footer{
